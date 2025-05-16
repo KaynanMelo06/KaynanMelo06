@@ -22,3 +22,19 @@ Trabalhando com Hardware, Firmware e Software nas áreas de C++, Microcontrolado
 - **Ferramentas:** Qt Framework, PyTest, OpenCV, CMake  
 
 ---
+
+## 🏆 Conquistas pela categoria IEEE Very Small Size Soccer (VSSS)
+
+- 🥈 Vice-Campeão LARC 2024  
+- 🏆 Campeão do Team Challenge LARC 2024  
+- 🏆 Campeão da IRONCUP 2025  
+- 🏆 Campeão da RSM Challenge 2025
+
+---
+
+## 📊 GitHub Stats
+
+![Kaynan's GitHub stats](https://github-readme-stats-alpha-inky-96.vercel.app/api?username=KaynanMelo06&show_icons=true&theme=tokyonight&include_private=true)
+
+
+
