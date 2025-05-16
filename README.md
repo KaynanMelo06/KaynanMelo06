@@ -34,7 +34,8 @@ Trabalhando com Hardware, Firmware e Software nas áreas de C++, Microcontrolado
 
 ## 📊 GitHub Stats
 
-![Kaynan's GitHub stats](https://github-readme-stats-alpha-inky-96.vercel.app/api?username=KaynanMelo06&show_icons=true&theme=tokyonight&include_private=true)
+![Kaynan's GitHub stats](https://github-readme-stats-alpha-inky-96.vercel.app/api?username=KaynanMelo06&show_icons=true&theme=tokyonight&include_private=true&include_all_commits=true)
+
 
 
 
