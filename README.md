@@ -34,9 +34,15 @@ Trabalhando com Hardware, Firmware e Software nas áreas de C++, Microcontrolado
 
 ## 📊 GitHub Stats
 
-![Kaynan's GitHub stats](https://github-readme-stats-alpha-inky-96.vercel.app/api?username=KaynanMelo06&show_icons=true&theme=tokyonight&include_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-alpha-inky-96.vercel.app/api/top-langs/?username=KaynanMelo06&layout=compact&theme=tokyonight&include_private=true&include_all_commits=true)
-
-
-
-
+<table cellpadding="" cellspacing="0">
+  <tr>
+    <td width="520" align="center">
+      <!-- Stats gerais -->
+      <img src="https://github-readme-stats-alpha-inky-96.vercel.app/api?username=KaynanMelo06&show_icons=true&theme=tokyonight&include_private=true&include_all_commits=true&card_width=490" alt="GitHub Stats"/>
+    </td>
+    <td width="520" align="center">
+      <!-- Most Used Languages -->
+      <img src="https://github-readme-stats-alpha-inky-96.vercel.app/api/top-langs/?username=KaynanMelo06&layout=compact&theme=tokyonight&include_private=true&include_all_commits=true&card_width=500" alt="Most Used Languages"/>
+    </td>
+  </tr>
+</table>
