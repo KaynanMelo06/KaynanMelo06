@@ -19,7 +19,7 @@ Trabalhando com Hardware, Firmware e Software nas áreas de C++, Microcontrolado
 
 - **Programming Languages:** C++, Python
 - **Robotica:** Hardware, Firmware e Software nas áreas de C++, Microcontroladores, aprendizagem de máquina e visão computacional.
-- **Ferramentas:** Qt Framework, PyTest, OpenCV, CMake  
+- **Ferramentas:** Qt Framework,PyQt, OpenCV, CMake  
 
 ---
 
