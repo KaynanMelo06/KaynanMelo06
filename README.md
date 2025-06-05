@@ -1,8 +1,6 @@
-
 # 👨‍💻 Kaynan Melo
 
-Sou um estudante de Engenharia de Computação no Instituto Nacional de Telecomunicações (INATEL), e pesquisador da Robotbulls na categoria IEEE Very Small Size Soccer (VSSS).
-Trabalhando com Hardware, Firmware e Software nas áreas de C++, Microcontroladores, aprendizagem de máquina e visão computacional.
+I am a Computer Engineering student at the National Institute of Telecommunications (INATEL) and a researcher for Robotbulls in the IEEE Very Small Size Soccer (VSSS) category. I work with hardware, firmware, and software in the areas of C++, microcontrollers, machine learning, and computer vision.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kaynanmelo06/" target="_blank">
@@ -15,29 +13,29 @@ Trabalhando com Hardware, Firmware e Software nas áreas de C++, Microcontrolado
 
 ---
 
-## Tecnologias
+## Technologies
 
-- **Programming Languages:** C++, Python
-- **Robotica:** Hardware, Firmware e Software nas áreas de C++, Microcontroladores, aprendizagem de máquina e visão computacional.
-- **Ferramentas:** Qt Framework, PyQt, OpenCV, CMake  
+- **Programming Languages:** C++, Python  
+- **Robotics:** Hardware, Firmware, and Software in C++, Microcontrollers, Machine Learning, and Computer Vision  
+- **Tools:** Qt Framework, PyQt, OpenCV, CMake  
 
 ---
 
-## 🏆 Conquistas pela categoria IEEE Very Small Size Soccer (VSSS)
+## 🏆 Achievements in IEEE Very Small Size Soccer (VSSS)
 
-- 🥈 Vice-Campeão LARC 2024  
-- 🏆 Campeão do Team Challenge LARC 2024  
-- 🏆 Campeão da IRONCUP 2025  
-- 🏆 Campeão da RSM Challenge 2025
+- 🥈 Runner-up at LARC 2024  
+- 🏆 Team Challenge Champion at LARC 2024  
+- 🏆 IRONCUP 2025 Champion  
+- 🏆 RSM Challenge 2025 Champion  
 
 ---
 
 ## 📊 GitHub Stats
 
-<table cellpadding="" cellspacing="0">
+<table cellpadding="0" cellspacing="0">
   <tr>
     <td width="520" align="center">
-      <!-- Stats gerais -->
+      <!-- General Stats -->
       <img src="https://github-readme-stats-alpha-inky-96.vercel.app/api?username=KaynanMelo06&show_icons=true&theme=tokyonight&include_private=true&include_all_commits=true&card_width=490" alt="GitHub Stats"/>
     </td>
     <td width="520" align="center">
