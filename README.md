@@ -23,10 +23,7 @@ I am a Computer Engineering student at the National Institute of Telecommunicati
 
 ## Certificates
 
-  <p align="left">
-    <a href="https://www.credly.com/badges/8b810a41-df98-455e-b8ad-c8e6396db368" target="_blank">
-      <img src="https://images.credly.com/size/110x110/images/8b810a41-df98-455e-b8ad-c8e6396db368/image.png" alt="Introduction to Data Science by Cisco"/>
-  </p>
+  [![Cisco - Introduction to Data Science](https://raw.githubusercontent.com/KaynanMelo06/KaynanMelo06/blob/main/assets/badges/badge_datascience.png)](https://www.credly.com/badges/8b810a41-df98-455e-b8ad-c8e6396db368/public_url)
 
 ---
 
