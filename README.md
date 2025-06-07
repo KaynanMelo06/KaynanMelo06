@@ -17,7 +17,16 @@ I am a Computer Engineering student at the National Institute of Telecommunicati
 
 - **Programming Languages:** C++, Python  
 - **Robotics:** Hardware, Firmware, and Software in C++, Microcontrollers, Machine Learning, and Computer Vision  
-- **Tools:** Qt Framework, PyQt, OpenCV, CMake  
+- **Tools:** Qt Framework, PyQt, OpenCV, CMake
+
+---
+
+## Certificates
+
+  <p align="left">
+    <a href="https://www.credly.com/badges/8b810a41-df98-455e-b8ad-c8e6396db368" target="_blank">
+      <img src="https://images.credly.com/size/110x110/images/8b810a41-df98-455e-b8ad-c8e6396db368/image.png" alt="Introduction to Data Science by Cisco"/>
+  </p>
 
 ---
 
