@@ -23,7 +23,7 @@ I am a Computer Engineering student at the National Institute of Telecommunicati
 
 ## Certificates
 
-  [![Cisco - Introduction to Data Science](https://raw.githubusercontent.com/KaynanMelo06/KaynanMelo06/main/assets/badges/badge_datascience.png)](https://www.credly.com/badges/8b810a41-df98-455e-b8ad-c8e6396db368/public_url)
+[![Cisco - Introduction to Data Science](https://raw.githubusercontent.com/KaynanMelo06/KaynanMelo06/main/assets/badges/badge_datascience210.png)](https://www.credly.com/badges/8b810a41-df98-455e-b8ad-c8e6396db368/public_url)  [![Cisco - Computer Hardware Basics](https://raw.githubusercontent.com/KaynanMelo06/KaynanMelo06/main/assets/badges/badge_computer-hardware-basics.png)](https://www.credly.com/badges/3496f094-4eb8-45e9-b692-19888503350f/public_url)  
 
 ---
 
