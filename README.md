@@ -15,7 +15,7 @@ I am a Computer Engineering student at the National Institute of Telecommunicati
 
 ## Technologies
 
-- **Programming Languages:** C++, Python  
+- **Programming Languages:** C++, Java, Python  
 - **Robotics:** Hardware, Firmware, and Software in C++, Microcontrollers, Machine Learning, and Computer Vision  
 - **Tools:** Qt Framework, PyQt, OpenCV, CMake
 
