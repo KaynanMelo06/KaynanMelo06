@@ -34,6 +34,7 @@ I am a Computer Engineering student at the National Institute of Telecommunicati
 - 🏆 IRONCUP 2025 Champion  
 - 🏆 RSM Challenge 2025 Champion
 - 🥈 Runner-up RCX - CPBR16 2025
+- 🥈 Runner-Up IRONCUP 2026
 
 ---
 
