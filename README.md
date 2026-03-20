@@ -1,6 +1,8 @@
 # 👨‍💻 Kaynan Melo
 
-I am a Computer Engineering student at the National Institute of Telecommunications (INATEL) and a researcher for Robotbulls in the IEEE Very Small Size Soccer (VSSS) category. I work with hardware, firmware, and software in the areas of C++, microcontrollers, machine learning, and computer vision.
+I am a Computer Engineering student at the National Institute of Telecommunications (Inatel), focusing on the development of Firmware, Software, and Hardware. I am currently a member of the RobotBulls team, competing in the Mini Sumo category, where I dedicate myself to developing high-performance firmware and robust embedded systems.
+
+Previously, I was a member of the Very Small Size Soccer (VSSS) category, contributing to notable team achievements, including titles in national and international competitions such as LARC 2024, IRONCUP, and RSM Challenge in 2025. My background combines practical experience in control systems and computer vision with a constant drive for innovative and collaborative solutions in mobile robotics.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kaynanmelo06/" target="_blank">
@@ -15,9 +17,16 @@ I am a Computer Engineering student at the National Institute of Telecommunicati
 
 ## Technologies
 
-- **Programming Languages:** C++, Java, Python  
-- **Robotics:** Hardware, Firmware, and Software in C++, Microcontrollers, Machine Learning, and Computer Vision  
-- **Tools:** Qt Framework, PyQt, OpenCV, CMake
+- **Programming Languages:** C++, Python, Java
+- **Embedded Systems & Robotics:**
+  - Development of autonomous and RC robots using **ESP32-S3** and **Arduino/C++**.
+  - Implementation of **Finite State Machines (FSM)** for strategic decision-making.
+  - Integration of **BLE (Xbox Controllers)** and **Infrared (Sony Protocol)** communication.
+  - Expertise in hardware-software debugging and **Power Management**.
+- **Software Engineering & Tools:**
+  - Firmware development with **PlatformIO**, **CMake**, and **OTA (Over-the-Air)** updates.
+  - Version control using **Git/GitHub**.
+- **Computer Science:** Microcontrollers, Machine Learning, Computer Vision (OpenCV), and GUI (Qt/PyQt).
 
 ---
 
