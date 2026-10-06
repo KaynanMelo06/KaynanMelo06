@@ -30,12 +30,6 @@ Previously, I was a member of the Very Small Size Soccer (VSSS) category, contri
 
 ---
 
-## Certificates
-
-[![Cisco - Introduction to Data Science](https://raw.githubusercontent.com/KaynanMelo06/KaynanMelo06/main/assets/badges/badge_datascience210.png)](https://www.credly.com/badges/8b810a41-df98-455e-b8ad-c8e6396db368/public_url)  [![Cisco - Computer Hardware Basics](https://raw.githubusercontent.com/KaynanMelo06/KaynanMelo06/main/assets/badges/badge_computer-hardware-basics.png)](https://www.credly.com/badges/3496f094-4eb8-45e9-b692-19888503350f/public_url)  
-
----
-
 ## 🏆 Achievements in IEEE Very Small Size Soccer (VSSS)
 
 - 🥈 Runner-up LARC 2024  
@@ -47,7 +41,14 @@ Previously, I was a member of the Very Small Size Soccer (VSSS) category, contri
 
 ---
 
+## Certificates
+
+[![Cisco - Introduction to Data Science](https://raw.githubusercontent.com/KaynanMelo06/KaynanMelo06/main/assets/badges/badge_datascience210.png)](https://www.credly.com/badges/8b810a41-df98-455e-b8ad-c8e6396db368/public_url)  [![Cisco - Computer Hardware Basics](https://raw.githubusercontent.com/KaynanMelo06/KaynanMelo06/main/assets/badges/badge_computer-hardware-basics.png)](https://www.credly.com/badges/3496f094-4eb8-45e9-b692-19888503350f/public_url)  
+
+---
+
 ## 📊 GitHub Stats
+Many of the languages ​​they use most frequently are the ones I used in college; currently, I work with C/C++.
 
 <table cellpadding="0" cellspacing="0">
   <tr>
